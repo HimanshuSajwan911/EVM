@@ -1,1 +1,3 @@
-# EVM for Army Public School.
+# EVM for Army Public School
+
+####Java GUI desktop application for election management.
